@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @colby-boucher
-- 🌱 I’m currently a student of Coding Temple!
+- 🌱 I’m a Coding Temple alumni!
 
 <!---
 colby-boucher/colby-boucher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
